@@ -19,6 +19,8 @@ index.html
 
 Just download it and add your own code. Pretty simple.
 
+And of course, remove elements and comments that aren't relevant
+
 
 ## Authors
 
