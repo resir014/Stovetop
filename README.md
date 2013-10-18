@@ -1,7 +1,7 @@
 Stovetop
 ========
 
-An empty HTML5 and CSS3 starting plate for a quick start to simple web projects.
+Just an empty HTML5 and CSS3 thing for a quick start to simple web projects. Nothing too major.
 
 
 ## What's in it
@@ -22,6 +22,6 @@ Just download it and add your own code. Pretty simple.
 
 ## Authors
 
-[normalize.css](https://github.com/necolas/normalize.css)
+This uses using [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
 
-Just one for now, [me](https://github.com/South-Paw).
+As for this small project it's just me, [me](https://github.com/South-Paw).
