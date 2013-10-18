@@ -22,6 +22,6 @@ Just download it and add your own code. Pretty simple.
 
 ## Authors
 
-This uses using [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
+Using [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
 
 As for this small project it's just me, [me](https://github.com/South-Paw).
