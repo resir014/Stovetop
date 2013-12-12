@@ -26,4 +26,4 @@ And of course, remove elements and comments that aren't relevant
 
 Stovetop uses [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
 
-Stovetop is maintained by [me](https://github.com/South-Paw)
+Stovetop is maintained by [me](https://github.com/South-Paw) and I use it all the time, even if no one else does ;)
