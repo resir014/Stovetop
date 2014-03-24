@@ -9,9 +9,11 @@ Just an empty HTML5 and CSS3 thing for a quick start to simple web projects. Not
 Stovetop contains the following files:
 
 ```
-css/normalize.css
-css/style.css
-index.html
+Stovetop/
+├── css/
+│   ├── normalize.css
+│   └── style.css
+└── index.html
 ```
 
 
