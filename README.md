@@ -9,9 +9,11 @@ Just an empty HTML5 and CSS3 thing for a quick start to simple web projects. Not
 Stovetop contains the following files:
 
 ```
-css/normalize.css
-css/style.css
-index.html
+Stovetop/
+├── css/
+│   ├── normalize.css
+│   └── style.css
+└── index.html
 ```
 
 
@@ -26,4 +28,4 @@ And of course, remove elements and comments that aren't relevant
 
 Stovetop uses [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
 
-This fork of Stovetop is maintained alongside the original repo [South-Paw/Stovetop](https://github.com/South-Paw/Stovetop)
+Stovetop is maintained by [me](https://github.com/South-Paw) and I use it all the time, even if no one else does ;)
