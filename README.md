@@ -31,4 +31,4 @@ Stovetop uses [humans.txt](http://humanstxt.org/), you should totally go read ab
 
 It also uses [normalize.css](https://github.com/necolas/normalize.css) by [Nicolas Gallagher](https://github.com/necolas)
 
-The project is maintained by [me](https://github.com/South-Paw) and I use it all the time, even if no one else does ;)
+This fork of Stovetop is maintained alongside the original repo [South-Paw/Stovetop](https://github.com/South-Paw/Stovetop)
